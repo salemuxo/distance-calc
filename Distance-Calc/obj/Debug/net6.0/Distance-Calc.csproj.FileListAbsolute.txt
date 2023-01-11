@@ -1,0 +1,15 @@
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\bin\Debug\net6.0\Distance-Calc.exe
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\bin\Debug\net6.0\Distance-Calc.deps.json
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\bin\Debug\net6.0\Distance-Calc.runtimeconfig.json
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\bin\Debug\net6.0\Distance-Calc.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\bin\Debug\net6.0\Distance-Calc.pdb
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.csproj.AssemblyReference.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.AssemblyInfoInputs.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.AssemblyInfo.cs
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.csproj.CoreCompileInputs.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\refint\Distance-Calc.dll
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.pdb
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\Distance-Calc.genruntimeconfig.cache
+\\fs-059\studuser$\Gr12\s.stockdale1\CS20\C#\Distance-Calc\obj\Debug\net6.0\ref\Distance-Calc.dll
